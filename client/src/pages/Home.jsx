@@ -9,7 +9,7 @@ const Home = () => {
         <img src={aaaa} alt="" />
 
     </div>
-    <div className="a">premium</div>
+    <div className="a">pre</div>
     <div className="b">Help</div>
     <div className="c">Download</div>
     <Link to={"/register"}>
